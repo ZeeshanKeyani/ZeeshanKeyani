@@ -42,8 +42,9 @@ SOC & Security Monitoring | Vulnerability Analysis & Pentesting | Linux & Window
 
 ### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeeshan_Keyani-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xeeshankeyani/)  
-[![Website](https://img.shields.io/badge/Website-MyDailyHealthyLife-orange?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.mydailyhealthylife.com/)  
-✉️ your.email@example.com  
+[![Website](https://img.shields.io/badge/Website-MyDailyHealthyLife-orange?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.mydailyhealthylife.com/)
+[![Website](https://img.shields.io/badge/Website-MyDailyHealthyLife-orange?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.techbit.pk/)
+✉️ xeeshankeyani@gmail.com  
 
 ---
 
