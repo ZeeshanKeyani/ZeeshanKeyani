@@ -22,14 +22,9 @@ I enjoy **threat hunting, building security labs, and teaching others through bl
 
 ---
 
-<img src="logos/wireshark.png" alt="Wireshark" width="40" height="40"/> 
-<img src="logos/burpsuite.png" alt="Burp Suite" width="40" height="40"/> 
-<img src="logos/snort.png" alt="Snort" width="40" height="40"/> 
-<img src="logos/splunk.png" alt="Splunk" width="40" height="40"/> 
-<img src="logos/wazuh.png" alt="Wazuh" width="40" height="40"/> 
-<img src="logos/autopsy.png" alt="Autopsy" width="40" height="40"/> 
-<img src="logos/magnet.png" alt="Magnet Forensics" width="40" height="40"/> 
-<img src="logos/aws.png" alt="AWS" width="40" height="40"/> 
+<img src="logos/wireshark.png" alt="Wireshark" width="40" height="40"/>
+<img src="logos/burpsuite.png" alt="Burp Suite" width="40" height="40"/>
+<!-- Add similarly for Snort, Splunk, Wazuh, Autopsy, Magnet Forensics -->
 
 ### 🎓 Certifications
 ![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackaday&logoColor=white)  
