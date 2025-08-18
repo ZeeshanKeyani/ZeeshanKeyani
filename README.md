@@ -76,7 +76,50 @@
 - 🔹 [Common Ports Reference](./ports.md)  
 
 ---
+## 🛡️ SIEM & Monitoring
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-007ACC?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
 
+---
+
+## 🔓 Penetration Testing Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-blueviolet?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nikto-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-darkgreen?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-purple?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-brown?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-lightblue?style=for-the-badge&logo=wireshark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-2F4F4F?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+
+---
+
+## 🧑‍💻 Digital Forensics Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Autopsy-1E90FF?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volatility-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/FTK-696969?style=for-the-badge&logo=fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/EnCase-8B0000?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
+
+## 🐧 Operating Systems & Scripting
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-3CB371?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
 ## 📊 GitHub Stats  
 
 <p align="center">
