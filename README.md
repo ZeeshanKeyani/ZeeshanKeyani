@@ -61,10 +61,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xeeshankeyani&show_icons=true&theme=default" alt="Zeeshan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeeshankeyani&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=default" alt="Zeeshan's GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanKeyani&layout=compact&theme=default" alt="Top Languages" />
+</p>
 ---
 
 ## 🌍 Let's Connect  
