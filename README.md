@@ -69,9 +69,6 @@
 - ✅ [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
 - ✅ [AWS Cloud Practitioner Essentials](https://www.coursera.org/account/accomplishments/certificate/BC6AG5Q8UMWN)
 - ✅ [Exam Prep AWS Certified SysOps Administrator Associate](https://www.coursera.org/account/accomplishments/certificate/648PZW3DTZKB)
-- ✅ [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
-- ✅ [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)  
-
 ---
 
 
