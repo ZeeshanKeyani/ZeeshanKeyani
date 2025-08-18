@@ -1,51 +1,65 @@
-# 👋 Hi, I'm Zeeshan Keyani  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:0072FF&height=200&section=header&text=Zeeshan%20Keyani&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
+</p>
 
-🚀 **Cybersecurity Professional | SOC Analyst | Ethical Hacker**  
-
-With 5+ years in IT and hands-on expertise in **SOC operations, ethical hacking, and digital forensics**, I specialize in securing infrastructure, monitoring threats, and responding to incidents. I am passionate about applying cybersecurity best practices to protect organizations from evolving cyber threats.  
-
-📧 [xeeshankeyani@gmail.com](mailto:xeeshankeyani@gmail.com) | 🌐 [www.techbit.pk](https://www.techbit.pk) | 💼 [LinkedIn](https://www.linkedin.com/in/xeeshankeyani/)  
-
----
-
-## 🛡️ Core Competencies
-- **Security Operations (SOC):** Log Analysis, SIEM Monitoring, Threat Hunting, Incident Response  
-- **Offensive Security:** Penetration Testing, Vulnerability Assessment, Exploitation Frameworks  
-- **Forensics & Investigation:** Digital Forensics, Evidence Handling, Malware Analysis  
-- **Cloud & Infrastructure:** AWS Security, Docker, Linux Administration  
-- **Programming & Scripting:** Python, Bash, PowerShell  
+<h2 align="center">👋 Hi, I’m Zeeshan Keyani</h2>
+<p align="center">Cybersecurity Professional | SOC Analyst | Ethical Hacker</p>
 
 ---
 
-## 🛠 Tools & Technologies
-🔹 **SOC & SIEM:** Splunk, Wazuh, ELK Stack, QRadar  
-🔹 **Pentesting:** Nmap, Metasploit, Burp Suite, Hydra  
-🔹 **Forensics:** Autopsy, Volatility, FTK Imager  
-🔹 **Networking:** Wireshark, tcpdump  
-🔹 **Cloud Security (Basic):** AWS IAM, Security Groups, Monitoring  
+### ​ About Me
+- Experienced **Cybersecurity Professional** with 5+ years in **Security Operations (SOC), Penetration Testing, and Digital Forensics**.
+- Passionate about **threat hunting**, building SOC labs, and sharing knowledge through **blogs & cheat sheets** (see TechBit.pk).
+- Continuously learning **Cloud Security**, **SIEM automation**, and **DevSecOps practices**.
 
 ---
 
-## 📜 Certifications
-- [✅ CEH (Certified Ethical Hacker) – EC-Council](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)  
-- [✅ CHFI (Computer Hacking Forensic Investigator) – EC-Council](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/)  
-- [✅ ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)  
+###  My Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/-Nmap-black?logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-black?logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-black?logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-black?logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-black?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-black?logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-black?logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-black?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-black?logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Projects & Resources
-- [🔐 Cybersecurity Cheat Sheet](./cheatsheet.md)  
-- [📁 Common Ports Reference](./ports.md)  
-- [🛡 SOC Analyst L1 Lab](./soc-lab.md)  
+###  Certifications
+- [CEH – Certified Ethical Hacker (EC-Council)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
+- [CHFI – Computer Hacking Forensic Investigator (EC-Council)](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/)
+- [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
 
 ---
 
-## 📊 GitHub Stats
-![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeeshankeyani&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeeshankeyani&layout=compact&theme=default)  
+###  Featured Projects
+| Project | Description |
+|---------|-------------|
+| [Cybersecurity Cheat Sheet](https://github.com/yourusername/cybersecurity-cheatsheet) | A quick reference for ports, tools, attacks, incident response, and cloud security essentials. |
+| [SOC Analyst Lab Setup](https://github.com/yourusername/soc-analyst-lab) | A simulated SOC environment for skill-building. |
+| [Tech Blog Scripts](https://github.com/yourusername/techblog-scripts) | Useful scripts for automating blog workflows and posting. |
 
 ---
 
-## 🌍 Let’s Connect
-I’m open to **remote opportunities** in **SOC Analysis, Cloud Security, and Penetration Testing**.  
-📩 Reach out for collaborations, freelance projects, or full-time security roles.  
+###  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="Zeeshan's GitHub stats" />
+</p>
+
+---
+
+###  Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/xeeshankeyani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:xeeshankeyani@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.techbit.pk/"><img src="https://img.shields.io/badge/-TechBit.pk-black" /></a>
+</p>
+
+---
+
+*Always learning. Always building. Always defending.*
