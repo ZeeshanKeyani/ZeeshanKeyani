@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zeeshan%20Keyani&fontSize=42&fontColor=00FFCA&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=🚀%20Zeeshan%20Keyani%20🚀&fontSize=45&fontColor=F8F8F8&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Professional%20|%20SOC%20Analyst%20|%20Ethical%20Hacker&descAlignY=60&descAlign=50"/>
 </p>
 
 <h2 align="center">💻 Cybersecurity Professional | SOC Analyst | Ethical Hacker</h2>
