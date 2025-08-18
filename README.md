@@ -1,52 +1,49 @@
-# Hi there 👋, I'm Zeeshan Keyani
-
-![Profile Banner](https://img.shields.io/badge/Welcome-to%20my%20GitHub-blue?style=for-the-badge&logo=github)
+# Hi there 👋, I'm Zeeshan Keyani  
 
 ### 🚀 About Me
-I am a passionate **Cybersecurity & IT Professional** with 5+ years of experience in IT Support, SOC, and Ethical Hacking. I enjoy learning new technologies, contributing to open-source projects, and building tools that make life easier.
+I am a passionate **Cybersecurity & IT Professional** with 5+ years of experience in IT Support, SOC, and Ethical Hacking.  
+I enjoy **threat hunting, building security labs, and teaching others through blogs and resources.**  
 
-- 🔭 Currently working on **SOC Analyst projects and Cybersecurity labs**  
-- 🌱 Currently learning **DevOps and Cloud Security**  
+- 🔭 Currently working on **SOC Analyst labs & Cybersecurity projects**  
+- 🌱 Learning **DevOps, Cloud Security & SIEM tools**  
 - 💬 Ask me about **Cybersecurity, Ethical Hacking, Linux, and Networking**  
-- ⚡ Fun fact: I love **tech blogging and creating learning resources**  
+- ⚡ Fun fact: I love **tech blogging & knowledge sharing**  
 
 ---
 
 ### 💻 Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Areas of Expertise:**  
-SOC & Security Monitoring | Vulnerability Analysis & Pentesting | Linux & Windows Administration | Cloud Security | DevOps Basics  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
 ---
 
 ### 🎓 Certifications
-![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-green?style=for-the-badge&logo=hackthebox)  
-![CHFI](https://img.shields.io/badge/CHFI-Computer_Hacking_Forensic_Investigator-blue?style=for-the-badge)  
-![ISC² CC](https://img.shields.io/badge/ISC²-CC_Certified_in_Cybersecurity-yellow?style=for-the-badge)  
-[More on LinkedIn](https://www.linkedin.com/in/xeeshankeyani/)
+![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackaday&logoColor=white)  
+![CHFI](https://img.shields.io/badge/CHFI-Computer%20Hacking%20Forensic%20Investigator-blue?style=for-the-badge&logo=security&logoColor=white)  
+![ISC2 CC](https://img.shields.io/badge/ISC²-Certified%20in%20Cybersecurity-2E8B57?style=for-the-badge&logo=isc2&logoColor=white)  
 
 ---
 
-### 📂 Projects
-- [SOC Analyst Lab Setup](https://github.com/yourusername/soc-analyst-lab) - Hands-on SOC lab for L1 Analysts  
-- [Cybersecurity Cheat Sheets](https://github.com/yourusername/cyber-cheatsheets) - Quick reference for pentesting & security tools  
-- [Tech Blog Scripts](https://github.com/yourusername/techblog-scripts) - Automation scripts for bloggers  
+### 📂 Featured Projects
+🔹 [SOC Analyst Lab Setup](https://github.com/yourusername/soc-analyst-lab) – Hands-on SOC lab for Tier-1 Analysts  
+🔹 [Cybersecurity Cheat Sheets](https://github.com/yourusername/cyber-cheatsheets) – Pentesting & Security quick reference  
+🔹 [Tech Blog Scripts](https://github.com/yourusername/techblog-scripts) – Automation scripts for blogs  
 
 ---
 
-### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeeshan_Keyani-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xeeshankeyani/)  
-[![Website](https://img.shields.io/badge/Website-MyDailyHealthyLife-orange?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.mydailyhealthylife.com/)
-[![Website](https://img.shields.io/badge/Website-MyDailyHealthyLife-orange?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.techbit.pk/)
-✉️ xeeshankeyani@gmail.com  
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xeeshankeyani/)  
+[![Website](https://img.shields.io/badge/MyDailyHealthyLife-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mydailyhealthylife.com/)  
+[![TechBit](https://img.shields.io/badge/TechBit.pk-000000?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.techbit.pk/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xeeshankeyani@gmail.com)  
 
 ---
 
 ### 📊 GitHub Stats
-![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
