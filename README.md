@@ -5,8 +5,8 @@
 
 ## 📌 About Me  
 - 🔐 Passionate about **Cybersecurity, SOC Operations, and Incident Response**  
-- 🎯 Skilled in **Threat Hunting, SIEM Monitoring, and Vulnerability Management**  
-- 🌍 Open to **Remote Roles (SOC, Cybersecurity)**  
+- 🎯 Skilled in **Threat Hunting, SIEM Monitoring, System Administration, Digital Forensic expert and Vulnerability Management**  
+- 🌍 Open to **Remote Roles (SOC, System Admininistration, Cybersecurity)**  
 - 📧 Reach me at **xeeshankeyani@gmail.com**  
 - 🌐 Visit my blogs: [www.techbit.pk](https://www.techbit.pk), [www.mydailyhealthylife.com](https://www.mydailyhealthylife.com)
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/xeeshankeyani/)  
@@ -121,6 +121,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Palo%20Alto%20Firewall-FF6F00?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
