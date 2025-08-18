@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Zeeshan Keyani  
 
 ### 🚀 About Me
-I am a passionate **Cybersecurity & IT Professional** with 6+ years of experience in IT Support, SOC, and Ethical Hacking.  
+I am a passionate **Cybersecurity & IT Professional** with 5+ years of experience in IT Support, SOC, and Ethical Hacking.  
 I enjoy **threat hunting, building security labs, and teaching others through blogs and resources.**  
 
 - 🔭 Currently working on **SOC Analyst labs & Cybersecurity projects**  
@@ -19,6 +19,21 @@ I enjoy **threat hunting, building security labs, and teaching others through bl
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+
+---
+
+### 🛡️ Cybersecurity Tools
+Here are some tools I actively use in penetration testing, SOC, and forensic analysis:  
+
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Snort](https://img.shields.io/badge/Snort-FE7A16?style=for-the-badge&logo=snort&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+![Wazuh](https://img.shields.io/badge/Wazuh-326CE5?style=for-the-badge&logo=wazuh&logoColor=white)  
+![OSINT](https://img.shields.io/badge/OSINT-FF0000?style=for-the-badge&logo=probot&logoColor=white)  
 
 ---
 
