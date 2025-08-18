@@ -8,7 +8,7 @@
 ## 📌 About Me  
 - 🔐 Passionate about **Cybersecurity, SOC Operations, and Incident Response**  
 - 🎯 Skilled in **Threat Hunting, SIEM Monitoring, and Vulnerability Management**  
-- 🌍 Open to **Remote Roles (SOC, Cybersecurity, Cloud Security)**  
+- 🌍 Open to **Remote Roles (SOC, Cybersecurity)**  
 - 📧 Reach me at **xeeshankeyani@gmail.com**  
 - 🌐 Visit my blog: [www.techbit.pk](https://www.techbit.pk)  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/xeeshankeyani/)  
