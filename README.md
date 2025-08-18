@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://github.com/ZeeshanKeyani/ZeeshanKeyani/raw/main/bannerimage.png" alt="Zeeshan Keyani Banner" width="1584" height="396" />
 </p>
-<h1 align="center">👋 Hi, I'm Zeeshan Keyani</h1>
-<h3 align="center">SOC Analyst | Cybersecurity Professional | Ethical Hacker</h3>
 
 ---
 
