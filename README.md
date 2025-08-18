@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:0072ff&height=200&section=header&text=Zeeshan%20Keyani&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zeeshan%20Keyani&fontSize=42&fontColor=00FFCA&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h2 align="center">💻 Cybersecurity Professional | SOC Analyst | Ethical Hacker</h2>
@@ -22,29 +22,27 @@ I enjoy **threat hunting, building SOC labs, and creating blogs/resources** that
 
 ### 🛡️ Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnuhub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-326CE5?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-0f0c29?style=for-the-badge&logo=gnuhub&logoColor=00FFCA"/>
+  <img src="https://img.shields.io/badge/Wireshark-302b63?style=for-the-badge&logo=wireshark&logoColor=00FFCA"/>
+  <img src="https://img.shields.io/badge/Metasploit-24243e?style=for-the-badge&logo=metasploit&logoColor=00FFCA"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-0f0c29?style=for-the-badge&logo=burpsuite&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-302b63?style=for-the-badge&logo=kalilinux&logoColor=00FFCA"/>
+  <img src="https://img.shields.io/badge/Splunk-24243e?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-0f0c29?style=for-the-badge&logo=wazuh&logoColor=00FFCA"/>
+  <img src="https://img.shields.io/badge/Linux-302b63?style=for-the-badge&logo=linux&logoColor=00FFCA"/>
+  <img src="https://img.shields.io/badge/Windows_Server-24243e?style=for-the-badge&logo=windows&logoColor=00FFCA"/>
 </p>
 
 ---
 
 ## 📜 Certifications
-
-[![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)  
-[![CHFI](https://img.shields.io/badge/CHFI-Computer%20Hacking%20Forensic%20Investigator-blue)](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/)  
-[![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-green)](https://www.isc2.org/certifications/cc)  
+[![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-302b63)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)  
+[![CHFI](https://img.shields.io/badge/CHFI-Forensic%20Investigator-0f0c29)](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/)  
+[![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-24243e)](https://www.isc2.org/certifications/cc)  
 - [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)  
-- [SQL Injection Attacks](https://learn.eccouncil.org/certificate/4ea39772-4461-48a1-ae9c-fddcaf9d3f66?logged=true)
-- [CompTIA Security+](https://www.comptia.org/certifications/security) *(if you plan to add later)*
-- [Containerized Applications on AWS](https://www.coursera.org/account/accomplishments/certificate/8T7NPKL4BBXS)   
-  
+- [SQL Injection Attacks](https://learn.eccouncil.org/certificate/4ea39772-4461-48a1-ae9c-fddcaf9d3f66?logged=true)  
+- [Containerized Applications on AWS](https://www.coursera.org/account/accomplishments/certificate/8T7NPKL4BBXS)  
+
 ---
 
 ### 📂 Featured Projects
@@ -56,22 +54,22 @@ I enjoy **threat hunting, building SOC labs, and creating blogs/resources** that
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/xeeshankeyani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:xeeshankeyani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.techbit.pk/"><img src="https://img.shields.io/badge/TechBit.pk-000000?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-  <a href="https://www.mydailyhealthylife.com/"><img src="https://img.shields.io/badge/MyDailyHealthyLife-34A853?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/xeeshankeyani/"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=00FFCA"></a>
+  <a href="mailto:xeeshankeyani@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=00FFCA"></a>
+  <a href="https://www.techbit.pk/"><img src="https://img.shields.io/badge/TechBit.pk-0f0c29?style=for-the-badge&logo=wordpress&logoColor=00FFCA"></a>
+  <a href="https://www.mydailyhealthylife.com/"><img src="https://img.shields.io/badge/MyDailyHealthyLife-302b63?style=for-the-badge&logo=google-chrome&logoColor=00FFCA"></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=0f0c29&title_color=00FFCA&icon_color=FF416C&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=0f0c29&ring=00FFCA&fire=FF416C&currStreakLabel=00FFCA" height="160"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:FF416C&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 </p>
