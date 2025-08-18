@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" alt="Cybersecurity Banner" width="100%">
+  <img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a8bba5d-d4ae-422b-9a54-c07042e854bd" />
+">
 </p>
 
 <h1 align="center">👋 Hi, I'm Zeeshan Keyani</h1>
