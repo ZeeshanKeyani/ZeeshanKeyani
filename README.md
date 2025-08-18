@@ -3,8 +3,6 @@
   <img src="https://github.com/ZeeshanKeyani/ZeeshanKeyani/raw/main/bannerimage.png" alt="Zeeshan Keyani Banner" width="1584" height="396" />
 </p>
 
-
-
 ## 📌 About Me  
 - 🔐 Passionate about **Cybersecurity, SOC Operations, and Incident Response**  
 - 🎯 Skilled in **Threat Hunting, SIEM Monitoring, and Vulnerability Management**  
