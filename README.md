@@ -133,12 +133,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=radical" alt="Zeeshan's GitHub status"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=default" alt="Zeeshan's GitHub stats" />
-</p>
+  </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanKeyani&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanKeyani&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 ---
 
