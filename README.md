@@ -10,7 +10,7 @@
 - 🎯 Skilled in **Threat Hunting, SIEM Monitoring, and Vulnerability Management**  
 - 🌍 Open to **Remote Roles (SOC, Cybersecurity)**  
 - 📧 Reach me at **xeeshankeyani@gmail.com**  
-- 🌐 Visit my blog: [www.techbit.pk](https://www.techbit.pk)  
+- 🌐 Visit my blogs: [www.techbit.pk](https://www.techbit.pk), [www.mydailyhealthylife.com](https://www.mydailyhealthylife.com)
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/xeeshankeyani/)  
 
 ---
