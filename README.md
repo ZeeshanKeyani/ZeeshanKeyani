@@ -1,58 +1,61 @@
-# Hi there 👋, I'm Zeeshan Keyani  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/ZeeshanKeyani" alt="avatar" width="150" style="border-radius:50%;" />
+</p>
 
-### 🚀 About Me
-I am a passionate **Cybersecurity & IT Professional** with 5+ years of experience in IT Support, SOC, and Ethical Hacking.  
-I enjoy **threat hunting, building security labs, and teaching others through blogs and resources.**  
-
-- 🔭 Currently working on **SOC Analyst labs & Cybersecurity projects**  
-- 🌱 Learning **DevOps, Cloud Security & SIEM tools**  
-- 💬 Ask me about **Cybersecurity, Ethical Hacking, Linux, and Networking**  
-- ⚡ Fun fact: I love **tech blogging & knowledge sharing**  
+<h1 align="center">Zeeshan Keyani</h1>
+<p align="center"><i>Cybersecurity • SOC Analyst • Ethical Hacker</i></p>
 
 ---
 
-### 💻 Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+###  About Me
+I’m a dedicated cybersecurity professional with 5+ years in IT Support, SOC operations, and ethical hacking. I specialize in threat hunting, forensic investigations, and building actionable security labs—all while empowering others through tech blogging.
+
+- 🎯 Building **SOC labs**, threat hunting workflows, and real-world cyber analysis
+- 🌱 Exploring **Cloud Security**, SIEM integration, and DevSecOps tools
+- 📢 Engaging in security communities and contributing hands-on resources
 
 ---
 
-<img src="logos/wireshark.png" alt="Wireshark" width="40" height="40"/> 
-<img src="logos/burpsuite.png" alt="Burp Suite" width="40" height="40"/> 
-<img src="logos/snort.png" alt="Snort" width="40" height="40"/> 
-<img src="logos/splunk.png" alt="Splunk" width="40" height="40"/> 
-<img src="logos/wazuh.png" alt="Wazuh" width="40" height="40"/> 
-<img src="logos/autopsy.png" alt="Autopsy" width="40" height="40"/> 
-<img src="logos/magnet.png" alt="Magnet Forensics" width="40" height="40"/> 
-<img src="logos/aws.png" alt="AWS" width="40" height="40"/> 
-
-### 🎓 Certifications
-![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackaday&logoColor=white)  
-![CHFI](https://img.shields.io/badge/CHFI-Computer%20Hacking%20Forensic%20Investigator-blue?style=for-the-badge&logo=security&logoColor=white)  
-![ISC2 CC](https://img.shields.io/badge/ISC²-Certified%20in%20Cybersecurity-2E8B57?style=for-the-badge&logo=isc2&logoColor=white)  
+###  Tools & Expertise
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnuhq&logoColor=white" alt="nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit" />
+  <img src="https://img.shields.io/badge/BurpSuite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite" />
+  <img src="https://img.shields.io/badge/KaliLinux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kalilinux" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="splunk" />
+  <img src="https://img.shields.io/badge/Wazuh-326CE5?style=for-the-badge&logo=wazuh&logoColor=white" alt="wazuh" />
+</p>
 
 ---
 
-### 📂 Featured Projects
-🔹 [SOC Analyst Lab Setup](https://github.com/yourusername/soc-analyst-lab) – Hands-on SOC lab for Tier-1 Analysts  
-🔹 [Cybersecurity Cheat Sheets](https://github.com/yourusername/cyber-cheatsheets) – Pentesting & Security quick reference  
-🔹 [Tech Blog Scripts](https://github.com/yourusername/techblog-scripts) – Automation scripts for blogs  
+###  Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackaday&logoColor=white" alt="CEH" />
+  <img src="https://img.shields.io/badge/CHFI-Computer%20Hacking%20Forensic%20Investigator-blue?style=for-the-badge&logo=security&logoColor=white" alt="CHFI" />
+  <img src="https://img.shields.io/badge/ISC²-Certified%20in%20Cybersecurity-2E8B57?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xeeshankeyani/)  
-[![Website](https://img.shields.io/badge/MyDailyHealthyLife-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mydailyhealthylife.com/)  
-[![TechBit](https://img.shields.io/badge/TechBit.pk-000000?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.techbit.pk/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xeeshankeyani@gmail.com)  
+###  Featured Projects
+- **SOC Analyst Lab Setup** – A fully-equipped SOC simulation environment for Tier-1 Analysts  
+- **Cybersecurity Cheat Sheets** – Curated, quick-reference guides for pentesting tools  
+- **Tech Blog Scripts** – Automation scripts to streamline cybersecurity blogging
 
 ---
 
-### 📊 GitHub Stats
-![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+###  Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/xeeshankeyani/"><img src="https://img.shields.io/badge/LinkedIn-In-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.techbit.pk/"><img src="https://img.shields.io/badge/TechBit.pk-000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="TechBit"></a>
+  <a href="mailto:xeeshankeyani@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+###  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+</p>
