@@ -132,6 +132,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  ![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=radical)
+
   <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=default" alt="Zeeshan's GitHub stats" />
 </p>
 
@@ -148,5 +150,4 @@
 d<a href="https://www.techbit.pk"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=radical)
 
