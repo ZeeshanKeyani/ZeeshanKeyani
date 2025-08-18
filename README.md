@@ -148,9 +148,5 @@
 d<a href="https://www.techbit.pk"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-![Your GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZeeshanKeyani&bg_color=ffffff&color=000000&line=000000&point=000000&area=true)
-
-
-
-
+![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=radical)
 
