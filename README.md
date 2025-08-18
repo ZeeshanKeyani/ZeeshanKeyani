@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Zeeshan Keyani  
 
 ### 🚀 About Me
-I am a passionate **Cybersecurity & IT Professional** with 5+ years of experience in IT Support, SOC, and Ethical Hacking.  
+I am a passionate **Cybersecurity & IT Professional** with 6+ years of experience in IT Support, SOC, and Ethical Hacking.  
 I enjoy **threat hunting, building security labs, and teaching others through blogs and resources.**  
 
 - 🔭 Currently working on **SOC Analyst labs & Cybersecurity projects**  
