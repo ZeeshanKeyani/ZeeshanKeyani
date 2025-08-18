@@ -65,6 +65,11 @@
 
 - ✅ [CEH – Certified Ethical Hacker (EC-Council)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)  
 - ✅ [CHFI – Computer Hacking Forensic Investigator (EC-Council)](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/)  
+- ✅ [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
+- ✅ [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
+- ✅ [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
+- ✅ [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
+- ✅ [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
 - ✅ [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)  
 
 ---
