@@ -37,8 +37,9 @@ I enjoy **threat hunting, building SOC labs, and creating blogs/resources** that
 
 ## 📜 Certifications
 
-- [CEH (Certified Ethical Hacker) – EC-Council](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)  
-- [CHFI (Computer Hacking Forensic Investigator) – EC-Council](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/)  
+[![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)  
+[![CHFI](https://img.shields.io/badge/CHFI-Computer%20Hacking%20Forensic%20Investigator-blue)](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/)  
+[![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-green)](https://www.isc2.org/certifications/cc)  
 - [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)  
 - [SQL Injection Attacks](https://learn.eccouncil.org/certificate/4ea39772-4461-48a1-ae9c-fddcaf9d3f66?logged=true)
 - [CompTIA Security+](https://www.comptia.org/certifications/security) *(if you plan to add later)*
