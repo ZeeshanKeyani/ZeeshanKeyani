@@ -22,42 +22,16 @@ I enjoy **threat hunting, building security labs, and teaching others through bl
 
 ---
 
-### 🛠️ Languages and Tools  
+### 🛡️ Cybersecurity & Forensics Tools  
 
-<p align="left">  
-
-<!-- Programming & Scripting -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-
-<!-- Operating Systems -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-<img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/>
-
-<!-- Cybersecurity Tools -->
-<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/>
-<img src="https://www.metasploit.com/includes/images/metasploit-logo.svg" alt="metasploit" width="40" height="40"/>
-<img src="https://portswigger.net/content/images/logos/burp-icon.svg" alt="burp suite" width="40" height="40"/>
-<img src="https://www.snort.org/assets/images/snort_logo.png" alt="snort" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Splunk-Logo.png" alt="splunk" width="80" height="40"/>
-<img src="https://wazuh.com/uploads/2021/12/wazuh_logo_icon_blue.svg" alt="wazuh" width="40" height="40"/>
-
-<!-- Digital Forensics -->
-<img src="https://www.autopsy.com/wp-content/uploads/2015/05/autopsy-icon-1.png" alt="autopsy" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/5636065?s=200&v=4" alt="volatility" width="40" height="40"/>
-<img src="https://www.magnetforensics.com/wp-content/uploads/2022/08/favicon-196x196-1.png" alt="magnet forensics" width="40" height="40"/>
-<img src="https://www.sleuthkit.org/images/sleuthkitlogo.gif" alt="sleuthkit" width="40" height="40"/>
-
-<!-- Cloud & DevOps -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-
-</p>
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=probot&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+![Wazuh](https://img.shields.io/badge/Wazuh-326CE5?style=for-the-badge&logo=azuredevops&logoColor=white)  
+![Autopsy](https://img.shields.io/badge/Autopsy-003366?style=for-the-badge&logo=windowsterminal&logoColor=white)  
+![Magnet Forensics](https://img.shields.io/badge/Magnet%20Forensics-1D3557?style=for-the-badge&logo=magento&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
 ### 🎓 Certifications
 ![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackaday&logoColor=white)  
