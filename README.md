@@ -76,7 +76,7 @@
 
 - 🔹 [SOC Analyst L1 Lab Setup](./soc-lab.md)  
 - 🔹 [Cybersecurity Cheat Sheet](https://github.com/ZeeshanKeyani/Cybersecurity-Cheat-Sheets)  
-- 🔹 [Common Ports Reference](./ports.md)  
+- 🔹 [Common Ports Reference](https://github.com/ZeeshanKeyani/-Common-Ports-Reference/blob/main/README.md)  
 
 ---
 ## 🛡️ SIEM & Monitoring
