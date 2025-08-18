@@ -132,7 +132,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  ![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=radical" alt="Zeeshan's GitHub status"/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=default" alt="Zeeshan's GitHub stats" />
 </p>
