@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/xeeshankeyani/xeeshankeyani/blob/main/A_digital_graphic_design_banner_introduces_Zeeshan.png" alt="Zeeshan Keyani Banner" width="100%" />
+  <img src="https://github.com/ZeeshanKeyani/ZeeshanKeyani/raw/main/bannerimage.png" alt="Zeeshan Keyani Banner" width="100%" />
 </p>
 <h1 align="center">👋 Hi, I'm Zeeshan Keyani</h1>
 <h3 align="center">SOC Analyst | Cybersecurity Professional | Ethical Hacker</h3>
