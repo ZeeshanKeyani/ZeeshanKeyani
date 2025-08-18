@@ -75,7 +75,7 @@
 ## 📂 Featured Projects  
 
 - 🔹 [SOC Analyst L1 Lab Setup](./soc-lab.md)  
-- 🔹 [Cybersecurity Cheat Sheet](./cheatsheet.md)  
+- 🔹 [Cybersecurity Cheat Sheet](https://github.com/ZeeshanKeyani/Cybersecurity-Cheat-Sheets)  
 - 🔹 [Common Ports Reference](./ports.md)  
 
 ---
