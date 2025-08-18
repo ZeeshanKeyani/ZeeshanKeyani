@@ -145,5 +145,12 @@
 <p align="center">
   <a href="mailto:xeeshankeyani@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/xeeshankeyani/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.techbit.pk"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+d<a href="https://www.techbit.pk"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
+
+![Your GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZeeshanKeyani&bg_color=ffffff&color=000000&line=000000&point=000000&area=true)
+
+
+
+
+
