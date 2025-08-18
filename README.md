@@ -69,6 +69,30 @@
 
 ---
 
+##  Certifications
+
+<p align="center">
+  <a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/" target="_blank">
+    <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH Badge"/>
+  </a>
+  <a href="https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/" target="_blank">
+    <img src="https://img.shields.io/badge/CHFI-Computer%20Hacking%20Forensic%20Investigator-blue?style=for-the-badge&logo=ec-council&logoColor=white" alt="CHFI Badge"/>
+  </a>
+  <a href="https://www.isc2.org/certifications/cc" target="_blank">
+    <img src="https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-green?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 CC Badge"/>
+  </a>
+</p>
+
+| Certification | Description |
+|---------------|-------------|
+| **CEH**       | Certified Ethical Hacker – hands-on pentesting techniques. |
+| **CHFI**      | Computer Hacking Forensic Investigator – digital forensics expertise. |
+| **ISC2 CC**   | ISC2 Certified in Cybersecurity – foundational security knowledge. |
+| **SQLi Attacks** | EC-Council course: SQL Injection Attacks – web vulnerabilities. |
+| **AWS Containerization** | Coursera: Containers on AWS – cloud deployment fundamentals. |
+
+
+
 ## 📂 Featured Projects  
 
 - 🔹 [SOC Analyst L1 Lab Setup](./soc-lab.md)  
