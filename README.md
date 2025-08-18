@@ -41,7 +41,7 @@ I enjoy **threat hunting, building SOC labs, and creating blogs/resources** that
 - [CHFI (Computer Hacking Forensic Investigator) – EC-Council](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/)  
 - [ISC2 CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)  
 - [CompTIA Security+](https://www.comptia.org/certifications/security) *(if you plan to add later)*
-- [Containerized Applications on AWS](https://www.isc2.org/certifications/cc)   
+- [Containerized Applications on AWS](https://www.coursera.org/account/accomplishments/certificate/8T7NPKL4BBXS)   
   
 ---
 
