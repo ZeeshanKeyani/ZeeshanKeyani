@@ -4,7 +4,7 @@
 </p>
 
 ## 📌 About Me  
-- 🔐 Passionate about **Cybersecurity, SOC Operations, and Incident Response**  
+- 🔐 Passionate about **Cybersecurity, SOC Operations, Pen Testing, and Incident Response**  
 - 🎯 Skilled in **Threat Hunting, SIEM Monitoring, System Administration, Digital Forensic expert and Vulnerability Management**  
 - 🌍 Open to **Remote Roles (SOC, System Admininistration, Cybersecurity)**  
 - 📧 Reach me at **xeeshankeyani@gmail.com**  
