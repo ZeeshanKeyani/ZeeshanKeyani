@@ -74,7 +74,7 @@
 
 ## 📂 Featured Projects  
 
-- 🔹 [SOC Analyst L1 Lab Setup](./soc-lab.md)  
+- 🔹 [SOC Analyst L1 Lab Setup](https://github.com/ZeeshanKeyani/SOC-Analyst-L1-Lab-Setup/blob/main/README.md#introduction)  
 - 🔹 [Cybersecurity Cheat Sheet](https://github.com/ZeeshanKeyani/Cybersecurity-Cheat-Sheets)  
 - 🔹 [Common Ports Reference](https://github.com/ZeeshanKeyani/-Common-Ports-Reference/blob/main/README.md)
 - 🔹 [Network-Penetration-Testing-Lab](https://github.com/ZeeshanKeyani/Network-Penetration-Testing-Lab/tree/main)
