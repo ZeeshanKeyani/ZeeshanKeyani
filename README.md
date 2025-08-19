@@ -78,6 +78,8 @@
 - 🔹 [Cybersecurity Cheat Sheet](https://github.com/ZeeshanKeyani/Cybersecurity-Cheat-Sheets)  
 - 🔹 [Common Ports Reference](https://github.com/ZeeshanKeyani/-Common-Ports-Reference/blob/main/README.md)
 - 🔹 [Network-Penetration-Testing-Lab](https://github.com/ZeeshanKeyani/Network-Penetration-Testing-Lab/tree/main)
+- 🔹 [Real-world-penetration-testing-environment-in-a-safe-isolated-network.](https://github.com/ZeeshanKeyani/Real-world-penetration-testing-environment-in-a-safe-isolated-network./tree/main)
+ 
  
 
 
