@@ -1,6 +1,5 @@
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.ZeeshanKeyani)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeeshanKeyani&show_icons=true&theme=radical&count_private=true)  
+![Profile views](https://komarev.com/ghpvc/?username=ZeeshanKeyani&label=Profile%20views&color=7b1fa2)
 
 <!-- Banner -->
 <p align="center">
