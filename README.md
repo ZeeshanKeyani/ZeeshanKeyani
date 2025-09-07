@@ -1,5 +1,5 @@
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=009688&style=flat-square)](https://github.com/ZeeshanKeyani)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.ZeeshanKeyani)
 
 
 <!-- Banner -->
