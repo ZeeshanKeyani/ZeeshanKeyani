@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=ZeeshanKeyani&label=Profile%20views&color=0e75b6&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=ZeeshanKeyani&color=blue&style=for-the-badge&label=VISITORS)
 
 <!-- Banner -->
 <p align="center">
